@@ -69,7 +69,7 @@ Smart Resume Builder is a modern, AI-powered web application that allows users t
 
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB
-- **AI Integration:** (Describe the model or API if used, e.g. OpenAI GPT)
+- **AI Integration:**  OpenAI GPT
 - **Other:** RESTful API
 
 ## Project Structure
